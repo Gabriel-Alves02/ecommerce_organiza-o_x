@@ -48,3 +48,11 @@ Contribuidor principal https://www.github.com/Gabriel-Alves02
 
 [![Logo do Python](img/python_img.jfif)](https://www.github.com/Gabriel-Alves02
 )
+
+## Código da função soma
+
+```JavaScript
+function soma (a, b) {
+    return a + b;
+}
+```
