@@ -1,4 +1,7 @@
-# ecommerce_organiza-o_x
-Este é um ecommerce para aorganização X feito em javascript e MySQL
+# E-commerce empresa X
 
-# Teste
+Vamos criar um e-commerce para a empresa X
+
+## Funcionalidades:
+
+Checkout, Tela de produto, Catálogo, Home com banner
