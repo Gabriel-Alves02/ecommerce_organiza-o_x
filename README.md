@@ -29,3 +29,7 @@ __Melhoria 1__, _melhoria 2_
     3. CSS diferente para grupos de cliente
 2. Integração xom outros pagamentos
 3. Sistema bônus para primeira compra
+
+#### Imagem local
+
+![Logo do Python](img/python_img.jfif)
